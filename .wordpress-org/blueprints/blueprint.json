@@ -1,0 +1,16 @@
+{
+    "landingPage": "/wp-admin/admin.php?page=heateor-social-sharing",
+    "preferredVersions": {
+        "php": "8.1",
+        "wp": "6.5.5"
+    },
+    "phpExtensionBundles": [
+    ],
+    "steps": [
+        {
+            "step": "login",
+            "username": "admin",
+            "password": "password"
+        }
+    ]
+}
